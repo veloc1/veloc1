@@ -1,10 +1,10 @@
 Hi, I'm a *veloc1* aka **uselessdinosaur** aka ~~Pavel~~ 👋
 
-I'm working at *Ekvio* (no profile at github yet) as fullstack developer (Python and Vue) 🚀
+Currently, I am looking for part time job in game dev.
 
-Also, part of **[@NaKolenke](https://github.com/NaKolenke/)** crew, making place for III (indie game developers) 😎
+Previously work at *Ekvio* (no profile at github yet) as fullstack developer (Android / Python / Vue) 🚀
 
-In the freetime, I'm working on untitled crab game 🦀
+Also, was part of **[@NaKolenke](https://github.com/NaKolenke/)** crew, making place for III (indie game developers) 😎
 
 
 You can find me at:
